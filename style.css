@@ -1,0 +1,23 @@
+.first{
+    height: 100px;
+    width: 800px;
+    background-color: orangered;
+}
+.second{
+    height: 100px;
+    width: 800px;
+    background-color: white;
+    text-align: center;
+}
+.third{
+    height: 100px;
+    width: 800px;
+    background-color: green;
+}
+.final{
+    height: 300px;
+    width: 800px;
+    border: 3px solid black;
+    margin-left: 350px;
+}
+
